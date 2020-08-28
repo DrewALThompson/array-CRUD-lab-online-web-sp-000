@@ -1,9 +1,9 @@
 def create_an_empty_array
-Array.new 
+[]
 end
 
 def create_an_array
-new = Array.new
+Array.new
 new << 4
 end
 
